@@ -10,3 +10,4 @@ In this project I will explore the fate of some of tech stocks to see how good (
 
 ### Disclaimer: this project is meant for some basic pandas and viz skills practice and should not be used to derive any financial advice.
 
+ Site is published at: https://atreyid.github.io/COVID_19_Tech_Stocks_Analysis/
